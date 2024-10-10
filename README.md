@@ -6,9 +6,9 @@ Virtual Try-on (VTON) refers to the technology that allows users to try on cloth
 
 This repository primarily focuses on **image, video, and 3D-based try-on models published after 2023**, aiming to provide insights into the latest technological trends. 
 
-**iThe project is ongoing, and we welcome contributions in any forms to help improve and expand it.**i
+**The project is ongoing, and we welcome contributions in any forms to help improve and expand it.**
 
-**iIf you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
+**If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
 
