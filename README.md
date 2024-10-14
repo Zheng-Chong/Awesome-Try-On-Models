@@ -35,5 +35,5 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 
 ## 3D-based Models
 
-- **[2024-07-23]** [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](http://arxiv.org/abs/2407.16511) **(arXiv)**
+- **[2024-07-23]** [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](http://arxiv.org/abs/2407.16511) **(ACMMM 2024)**
 
