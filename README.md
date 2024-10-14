@@ -30,7 +30,10 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 
 ## Video-based Models
 
+- **[2024-07-15]** [WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models](https://arxiv.org/pdf/2407.10625) **(arXiv)**
+- **[2024-06-07]** [VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers](https://arxiv.org/pdf/2405.18326) **(arXiv)**
 - **[2024-05-20]** [ViViD: Video Virtual Try-on using Diffusion Models](http://arxiv.org/abs/2405.11794) **(arXiv)** [![Star](https://img.shields.io/github/stars/alibaba-yuanjing-aigclab/ViViD.svg?style=social&label=Star)](https://github.com/alibaba-yuanjing-aigclab/ViViD)
+- **[2024-04-26]** [AnyDoor: Zero-shot Object-level Image Customization](https://arxiv.org/pdf/2307.09481) **(CVPR 2024)** [https://img.shields.io/github/stars/ali-vilab/AnyDoor.svg?style=social&label=Star](https://github.com/ali-vilab/AnyDoor)
 - **[2024-04-26]** [Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos](http://arxiv.org/abs/2404.17571) **(arXiv)**
 
 ## 3D-based Models
