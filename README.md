@@ -33,7 +33,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2023-03-24]** [GP-VTON: Towards General Purpose Virtual Try-On via Collaborative Local-Flow Global-Parsing Learning](https://arxiv.org/abs/2303.13756) **(CVPR 2023)** [![Star](https://img.shields.io/github/stars/xiezhy6/GP-VTON.svg?style=social&label=Star)](https://github.com/xiezhy6/GP-VTON)
 
 ## Video-based Models
-
+- **[2024-11-04]** [Fashion-VDM: Video Diffusion Model for Virtual Try-On](http://arxiv.org/abs/2411.00225) **(arXiv)**
 - **[2024-07-15]** [WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models](https://arxiv.org/pdf/2407.10625) **(arXiv)**
 - **[2024-06-07]** [VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers](https://arxiv.org/pdf/2405.18326) **(arXiv)**
 - **[2024-05-20]** [ViViD: Video Virtual Try-on using Diffusion Models](http://arxiv.org/abs/2405.11794) **(arXiv)** [![Star](https://img.shields.io/github/stars/alibaba-yuanjing-aigclab/ViViD.svg?style=social&label=Star)](https://github.com/alibaba-yuanjing-aigclab/ViViD)
