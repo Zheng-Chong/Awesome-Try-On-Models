@@ -11,7 +11,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
-- **[2024-11-22]** [FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on](http://arxiv.org/abs/2411.10499) **(arXiv)** [![Star](https://img.shields.io/github/stars/BoyuanJiang/FitDiT.svg?style=social&label=Star)]([https://github.com/siqi0905/GarDiff/tree/master](https://github.com/BoyuanJiang/FitDiT))
+- **[2024-11-22]** [FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on](http://arxiv.org/abs/2411.10499) **(arXiv)** [![Star](https://img.shields.io/github/stars/BoyuanJiang/FitDiT.svg?style=social&label=Star)](https://github.com/BoyuanJiang/FitDiT)
 - **[2024-09-12]** [GarDiff: Improving Virtual Try-On with Garment-focused Diffusion Models](http://arxiv.org/abs/2409.08258) **(arXiv)** [![Star](https://img.shields.io/github/stars/siqi0905/GarDiff.svg?style=social&label=Star)](https://github.com/siqi0905/GarDiff/tree/master)
 - **[2024-08-22]** [OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person](http://arxiv.org/abs/2407.16224) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://modelscope.cn/studios/DAMOXR/OutfitAnyone) [![Star](https://img.shields.io/github/stars/HumanAIGC/OutfitAnyone.svg?style=social&label=Star)](https://github.com/HumanAIGC/OutfitAnyone)
 - **[2024-08-12]** [BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training](http://arxiv.org/abs/2408.06047) **(arXiv)** [![Star](https://img.shields.io/github/stars/little-misfit/BooW-VTON.svg?style=social&label=Star)](https://github.com/little-misfit/BooW-VTON)
