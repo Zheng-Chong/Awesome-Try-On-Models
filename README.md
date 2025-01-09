@@ -11,6 +11,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+- **[2024-12-22]** [Learning Flow Fields in Attention for Controllable Person Image Generation](https://arxiv.org/abs/2412.16978) **(arXiv)** [![Star](https://img.shields.io/github/stars/rlawjdghek/PromptDresser.svg?style=social&label=Star)](https://github.com/rlawjdghek/PromptDresser)
 - **[2024-12-11]** [Learning Flow Fields in Attention for Controllable Person Image Generation](https://arxiv.org/abs/2412.08486) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://huggingface.co/spaces/franciszzj/Leffa) [![Star](https://img.shields.io/github/stars/franciszzj/Leffa.svg?style=social&label=Star)](https://github.com/franciszzj/Leffa)
 - **[2024-11-22]** [FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on](http://arxiv.org/abs/2411.10499) **(arXiv)** [![Star](https://img.shields.io/github/stars/BoyuanJiang/FitDiT.svg?style=social&label=Star)](https://github.com/BoyuanJiang/FitDiT)
 - **[2024-09-12]** [GarDiff: Improving Virtual Try-On with Garment-focused Diffusion Models](http://arxiv.org/abs/2409.08258) **(arXiv)** [![Star](https://img.shields.io/github/stars/siqi0905/GarDiff.svg?style=social&label=Star)](https://github.com/siqi0905/GarDiff/tree/master)
