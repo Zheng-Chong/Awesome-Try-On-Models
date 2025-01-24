@@ -47,4 +47,5 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 ## 3D-based Models
 - **[2024-10-07]** [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](http://arxiv.org/abs/2410.05259) **(arXiv)** [![Star](https://img.shields.io/github/stars/yukangcao/GS-VTON.svg?style=social&label=Star)](https://github.com/yukangcao/GS-VTON)
 - **[2024-07-23]** [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](http://arxiv.org/abs/2407.16511) **(ACMMM 2024)**
+- **[2024-05-13]** [GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting](https://arxiv.org/abs/2405.07472) **(arXiv)**  [![Star](https://img.shields.io/github/stars/HaroldChen19/GaussianVTON.svg?style=social&label=Star)](https://github.com/HaroldChen19/GaussianVTON)
 
