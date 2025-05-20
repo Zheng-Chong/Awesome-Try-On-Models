@@ -11,7 +11,10 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+
+- **[2025-04-21]** [SCW-VTON: Shape-Guided Clothing Warping for Virtual Try-On](https://arxiv.org/abs/2504.15232) **(arXiv)** [![Star](https://img.shields.io/github/stars/xyhanHIT/SCW-VTON.svg?style=social&label=Star)](https://github.com/xyhanHIT/SCW-VTON)
 - **[2025-03-26]** [ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](http://arxiv.org/abs/2503.20418) **(arXiv)** [![Star](https://img.shields.io/github/stars/jiwoohong93/ita-mdt_code.svg?style=social&label=Star)](https://github.com/jiwoohong93/ita-mdt_code)
+- **[2025-03-18]** [PL-VTONv2: Limb-Aware Virtual Try-On Network with Progressive Clothing Warping](https://arxiv.org/abs/2503.14074) **(arXiv)** [![Star](https://img.shields.io/github/stars/aipixel/PL-VTONv2.svg?style=social&label=Star)](https://github.com/aipixel/PL-VTONv2)
 - **[2025-01-27]** [Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks](http://arxiv.org/abs/2501.15891) **(arXiv)** [![Star](https://img.shields.io/github/stars/logn-2024/Any2anyTryon.svg?style=social&label=Star)](https://github.com/logn-2024/Any2anyTryon)
 - **[2024-12-22]** [PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask](https://arxiv.org/abs/2412.16978) **(arXiv)** [![Star](https://img.shields.io/github/stars/rlawjdghek/PromptDresser.svg?style=social&label=Star)](https://github.com/rlawjdghek/PromptDresser)
 - **[2024-12-11]** [Leffa: Learning Flow Fields in Attention for Controllable Person Image Generation](https://arxiv.org/abs/2412.08486) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://huggingface.co/spaces/franciszzj/Leffa) [![Star](https://img.shields.io/github/stars/franciszzj/Leffa.svg?style=social&label=Star)](https://github.com/franciszzj/Leffa)
