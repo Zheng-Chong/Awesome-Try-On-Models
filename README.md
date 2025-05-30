@@ -42,6 +42,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2023-03-24]** [GP-VTON: Towards General Purpose Virtual Try-On via Collaborative Local-Flow Global-Parsing Learning](https://arxiv.org/abs/2303.13756) **(CVPR 2023)** [![Star](https://img.shields.io/github/stars/xiezhy6/GP-VTON.svg?style=social&label=Star)](https://github.com/xiezhy6/GP-VTON)
 
 ## Video-based Models
+- **[2025-01-20]** [MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325) **(arXiv)** [![Star](https://img.shields.io/github/stars/vivoCameraResearch/Magic-TryOn.svg?style=social&label=Star)](https://github.com/vivoCameraResearch/Magic-TryOn/)
 - **[2025-01-20]** [CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation](http://arxiv.org/abs/2501.11325) **(arXiv)** [![Star](https://img.shields.io/github/stars/Zheng-Chong/CatV2TON.svg?style=social&label=Star)](https://github.com/Zheng-Chong/CatV2TON)
 - **[2024-12-13]** [Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](http://arxiv.org/abs/2412.09822) **(arXiv)**
 - **[2024-12-05]** [PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm](http://arxiv.org/abs/2412.03021) **(arXiv)**
