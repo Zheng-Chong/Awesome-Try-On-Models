@@ -11,6 +11,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+- **[2025-07-20]** [OmniVTON: Training-Free Universal Virtual Try-On](https://arxiv.org/abs/2507.15037) **([ICC V2025)** [![Star](https://img.shields.io/github/stars/Jerome-Young/OmniVTON.svg?style=social&label=Star)](https://github.com/Jerome-Young/OmniVTON)
 - **[2025-05-22]** [SPM-Diff: Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On](https://arxiv.org/abs/2505.16977) **(ICLR 2025)** [![Star](https://img.shields.io/github/stars/HiDream-ai/SPM-Diff.svg?style=social&label=Star)](https://github.com/HiDream-ai/SPM-Diff)
 - **[2025-03-26]** [ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](http://arxiv.org/abs/2503.20418) **(arXiv)** [![Star](https://img.shields.io/github/stars/jiwoohong93/ita-mdt_code.svg?style=social&label=Star)](https://github.com/jiwoohong93/ita-mdt_code)
 - **[2025-01-27]** [Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks](http://arxiv.org/abs/2501.15891) **(arXiv)** [![Star](https://img.shields.io/github/stars/logn-2024/Any2anyTryon.svg?style=social&label=Star)](https://github.com/logn-2024/Any2anyTryon)
