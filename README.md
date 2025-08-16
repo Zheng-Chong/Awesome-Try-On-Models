@@ -11,6 +11,9 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+
+- **[2025-08-06]** [Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](https://www.arxiv.org/abs/2508.04559) **(arXiv)** [![Star](https://img.shields.io/github/stars/nxnai/Voost.svg?style=social&label=Star)](https://github.com/nxnai/Voost)
+- **[2025-08-06]** [One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose](https://www.arxiv.org/abs/2508.04559) **(arXiv)**
 - **[2025-07-20]** [OmniVTON: Training-Free Universal Virtual Try-On](https://arxiv.org/abs/2507.15037) **(ICCV 2025)** [![Star](https://img.shields.io/github/stars/Jerome-Young/OmniVTON.svg?style=social&label=Star)](https://github.com/Jerome-Young/OmniVTON)
 - **[2025-05-22]** [SPM-Diff: Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On](https://arxiv.org/abs/2505.16977) **(ICLR 2025)** [![Star](https://img.shields.io/github/stars/HiDream-ai/SPM-Diff.svg?style=social&label=Star)](https://github.com/HiDream-ai/SPM-Diff)
 - **[2025-03-26]** [ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](http://arxiv.org/abs/2503.20418) **(arXiv)** [![Star](https://img.shields.io/github/stars/jiwoohong93/ita-mdt_code.svg?style=social&label=Star)](https://github.com/jiwoohong93/ita-mdt_code)
