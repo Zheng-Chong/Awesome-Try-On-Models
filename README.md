@@ -11,7 +11,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
-
+- **[2025-08-19]** [OmniTry: Virtual Try-On Anything without Masks](https://arxiv.org/abs/2508.13632) **(CVPR 2025)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://huggingface.co/spaces/Kunbyte/OmniTry) [![Star](https://img.shields.io/github/stars/Kunbyte-AI/OmniTry.svg?style=social&label=Star)](https://github.com/Kunbyte-AI/OmniTry/tree/main)
 - **[2025-08-06]** [Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](https://arxiv.org/abs/2508.04825) **(arXiv)** [![Star](https://img.shields.io/github/stars/nxnai/Voost.svg?style=social&label=Star)](https://github.com/nxnai/Voost)
 - **[2025-08-06]** [One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose](https://www.arxiv.org/abs/2508.04559) **(arXiv)**
 - **[2025-07-20]** [OmniVTON: Training-Free Universal Virtual Try-On](https://arxiv.org/abs/2507.15037) **(ICCV 2025)** [![Star](https://img.shields.io/github/stars/Jerome-Young/OmniVTON.svg?style=social&label=Star)](https://github.com/Jerome-Young/OmniVTON)
