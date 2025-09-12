@@ -50,7 +50,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2023-03-18]** [PL-VTONv2: Limb-Aware Virtual Try-On Network with Progressive Clothing Warping](https://arxiv.org/abs/2503.14074) **(TMM 2023)** [![Star](https://img.shields.io/github/stars/aipixel/PL-VTONv2.svg?style=social&label=Star)](https://github.com/aipixel/PL-VTONv2)
 
 ## Video-based Models
-- **[2025-08-28]** [Dress&Dance: Dress up and Dance as You Like It - Technical Preview](https://arxiv.org/abs/2508.21070) **(arXiv)**
+- **[2025-09-04]** [Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](https://arxiv.org/abs/2508.21070) **(arXiv)**
 - **[2025-08-04]** [DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework](https://www.arxiv.org/abs/2508.02807) **(arXiv)**  [![Star](https://img.shields.io/github/stars/Virtu-Lab/DreamVVT.svg?style=social&label=Star)](https://github.com/Virtu-Lab/DreamVVT)
 - **[2025-05-28]** [MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325) **(arXiv)** [![Star](https://img.shields.io/github/stars/vivoCameraResearch/Magic-TryOn.svg?style=social&label=Star)](https://github.com/vivoCameraResearch/Magic-TryOn/)
 - **[2025-05-22]** [DPIDM: Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction](http://arxiv.org/abs/2505.16980) **(CVPR 2025)**
