@@ -64,6 +64,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2024-04-26]** [Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos](http://arxiv.org/abs/2404.17571) **(arXiv)**
 
 ## 3D-based Models
+- **[2025-09-05]** [LUIVITON: Learned Universal Interoperable VIrtual Try-ON](http://arxiv.org/abs/2509.05030) **(arXiv)**
 - **[2025-03-15]** [VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction](https://arxiv.org/pdf/2503.12165) **(CVPR 2025)**  [![Star](https://img.shields.io/github/stars/scnuhealthy/VTON360.svg?style=social&label=Star)](https://github.com/scnuhealthy/VTON360)
 - **[2024-10-07]** [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](http://arxiv.org/abs/2410.05259) **(arXiv)** [![Star](https://img.shields.io/github/stars/yukangcao/GS-VTON.svg?style=social&label=Star)](https://github.com/yukangcao/GS-VTON)
 - **[2024-07-23]** [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](http://arxiv.org/abs/2407.16511) **(ACMMM 2024)**
