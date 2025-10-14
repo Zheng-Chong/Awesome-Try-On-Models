@@ -11,6 +11,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+- **[2025-10-03]** [DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](https://arxiv.org/abs/2510.04797) **(arXiv)**
 - **[2025-08-28]** [FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](https://arxiv.org/abs/2508.20586) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://fastfit.lavieai.com) [![Star](https://img.shields.io/github/stars/Zheng-Chong/FastFit.svg?style=social&label=Star)](https://github.com/Zheng-Chong/FastFit)
 - **[2025-08-25]** [JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on](https://arxiv.org/abs/2508.17614) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://market.aliyun.com/detail/cmapi00067129;jsessionid=4253F86EC1B7AA1C1AF51A5EB04E669B) [![Star](https://img.shields.io/github/stars/damo-cv/JCo-MVTON.svg?style=social&label=Star)](https://github.com/damo-cv/JCo-MVTON)
 - **[2025-08-19]** [OmniTry: Virtual Try-On Anything without Masks](https://arxiv.org/abs/2508.13632) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://huggingface.co/spaces/Kunbyte/OmniTry) [![Star](https://img.shields.io/github/stars/Kunbyte-AI/OmniTry.svg?style=social&label=Star)](https://github.com/Kunbyte-AI/OmniTry/tree/main)
@@ -51,6 +52,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 
 ## Video-based Models
 - **[2025-09-04]** [Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](https://arxiv.org/abs/2508.21070) **(arXiv)**
+- **[2025-08-28]** [Dress&Dance: Dress up and Dance as You Like It - Technical Preview](https://arxiv.org/abs/2508.21070) **(arXiv)**
 - **[2025-08-04]** [DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework](https://www.arxiv.org/abs/2508.02807) **(arXiv)**  [![Star](https://img.shields.io/github/stars/Virtu-Lab/DreamVVT.svg?style=social&label=Star)](https://github.com/Virtu-Lab/DreamVVT)
 - **[2025-05-28]** [MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325) **(arXiv)** [![Star](https://img.shields.io/github/stars/vivoCameraResearch/Magic-TryOn.svg?style=social&label=Star)](https://github.com/vivoCameraResearch/Magic-TryOn/)
 - **[2025-05-22]** [DPIDM: Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction](http://arxiv.org/abs/2505.16980) **(CVPR 2025)**
