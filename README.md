@@ -27,6 +27,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2024-11-22]** [FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on](http://arxiv.org/abs/2411.10499) **(arXiv)** [![Star](https://img.shields.io/github/stars/BoyuanJiang/FitDiT.svg?style=social&label=Star)](https://github.com/BoyuanJiang/FitDiT)
 - **[2024-10-28]** [SCW-VTON: Shape-Guided Clothing Warping for Virtual Try-On](https://arxiv.org/abs/2504.15232) **(ACMMM 2024)** [![Star](https://img.shields.io/github/stars/xyhanHIT/SCW-VTON.svg?style=social&label=Star)](https://github.com/xyhanHIT/SCW-VTON)
 - **[2024-09-12]** [GarDiff: Improving Virtual Try-On with Garment-focused Diffusion Models](http://arxiv.org/abs/2409.08258) **(arXiv)** [![Star](https://img.shields.io/github/stars/siqi0905/GarDiff.svg?style=social&label=Star)](https://github.com/siqi0905/GarDiff/tree/master)
+- **[2024-08-28]** [VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding](http://arxiv.org/abs/2408.12340) **(CVPR 2025)** [![Star](https://img.shields.io/github/stars/VTON-HandFit/VTON-HandFit.svg?style=social&label=Star)](https://github.com/VTON-HandFit/VTON-HandFit)
 - **[2024-08-26]** [MV-VTON: Multi-View Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2404.17364) **(AAAI 2025)** [![Star](https://img.shields.io/github/stars/hywang2002/MV-VTON.svg?style=social&label=Star)](https://github.com/hywang2002/MV-VTON)
 - **[2024-08-22]** [OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person](http://arxiv.org/abs/2407.16224) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://modelscope.cn/studios/DAMOXR/OutfitAnyone) [![Star](https://img.shields.io/github/stars/HumanAIGC/OutfitAnyone.svg?style=social&label=Star)](https://github.com/HumanAIGC/OutfitAnyone)
 - **[2024-08-12]** [BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training](http://arxiv.org/abs/2408.06047) **(arXiv)** [![Star](https://img.shields.io/github/stars/little-misfit/BooW-VTON.svg?style=social&label=Star)](https://github.com/little-misfit/BooW-VTON)
@@ -51,12 +52,14 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2023-03-18]** [PL-VTONv2: Limb-Aware Virtual Try-On Network with Progressive Clothing Warping](https://arxiv.org/abs/2503.14074) **(TMM 2023)** [![Star](https://img.shields.io/github/stars/aipixel/PL-VTONv2.svg?style=social&label=Star)](https://github.com/aipixel/PL-VTONv2)
 
 ## Video-based Models
+
 - **[2025-09-04]** [Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](https://arxiv.org/abs/2508.21070) **(arXiv)**
 - **[2025-08-28]** [Dress&Dance: Dress up and Dance as You Like It - Technical Preview](https://arxiv.org/abs/2508.21070) **(arXiv)**
 - **[2025-08-04]** [DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework](https://www.arxiv.org/abs/2508.02807) **(arXiv)**  [![Star](https://img.shields.io/github/stars/Virtu-Lab/DreamVVT.svg?style=social&label=Star)](https://github.com/Virtu-Lab/DreamVVT)
 - **[2025-05-28]** [MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325) **(arXiv)** [![Star](https://img.shields.io/github/stars/vivoCameraResearch/Magic-TryOn.svg?style=social&label=Star)](https://github.com/vivoCameraResearch/Magic-TryOn/)
 - **[2025-05-22]** [DPIDM: Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction](http://arxiv.org/abs/2505.16980) **(CVPR 2025)**
 - **[2025-01-20]** [CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation](http://arxiv.org/abs/2501.11325) **(CVPR 2025 Workshop)** [![Star](https://img.shields.io/github/stars/Zheng-Chong/CatV2TON.svg?style=social&label=Star)](https://github.com/Zheng-Chong/CatV2TON)
+- **[2025-01-15]** [RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency](https://arxiv.org/abs/2501.08682v1) **(arXiv)**
 - **[2024-12-13]** [Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](http://arxiv.org/abs/2412.09822) **(arXiv)**
 - **[2024-12-05]** [PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm](http://arxiv.org/abs/2412.03021) **(arXiv)**
 - **[2024-11-04]** [Fashion-VDM: Video Diffusion Model for Virtual Try-On](http://arxiv.org/abs/2411.00225) **(SIGGRAPH Asia 2024)**
