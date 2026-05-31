@@ -52,6 +52,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2023-03-18]** [PL-VTONv2: Limb-Aware Virtual Try-On Network with Progressive Clothing Warping](https://arxiv.org/abs/2503.14074) **(TMM 2023)** [![Star](https://img.shields.io/github/stars/aipixel/PL-VTONv2.svg?style=social&label=Star)](https://github.com/aipixel/PL-VTONv2)
 
 ## Video-based Models
+- **[2026-05-20]** [iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance](https://arxiv.org/abs/2605.21431) **(ICML 2026)** [Project Page](https://zhengjun-ai.github.io/itryon-page)
 - **[2025-12-23]** [The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](http://arxiv.org/abs/2512.20340) **(arXiv)** [Dataset](https://huggingface.co/datasets/zijiyingcai/ViT-HD/tree/main)
 - **[2025-11-24]** [Eevee: Towards Close-up High-resolution Video-based Virtual Try-on](http://arxiv.org/abs/2511.18957) **(arXiv)** [![Star](https://img.shields.io/github/stars/AMAP-ML/Eevee.svg?style=social&label=Star)](https://github.com/AMAP-ML/Eevee) 
 - **[2025-10-05]** [Once Is Enough: Lightweight DiT-Based Video Virtual Try-On via One-Time Garment Appearance Injection](http://arxiv.org/abs/2510.07654) **(arXiv)**
@@ -76,4 +77,3 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2024-10-07]** [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](http://arxiv.org/abs/2410.05259) **(arXiv)** [![Star](https://img.shields.io/github/stars/yukangcao/GS-VTON.svg?style=social&label=Star)](https://github.com/yukangcao/GS-VTON)
 - **[2024-07-23]** [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](http://arxiv.org/abs/2407.16511) **(ACMMM 2024)**
 - **[2024-05-13]** [GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting](https://arxiv.org/abs/2405.07472) **(arXiv)**  [![Star](https://img.shields.io/github/stars/HaroldChen19/GaussianVTON.svg?style=social&label=Star)](https://github.com/HaroldChen19/GaussianVTON)
-
