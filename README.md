@@ -11,8 +11,13 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+- **[2026-05-14]** [LPH-VTON: Resolving the Structure-Texture Dilemma of Virtual Try-On via Latent Process Handover](https://arxiv.org/abs/2605.14874) **(arXiv)**
 - **[2026-05-13]** [DirectTryOn: One-Step Virtual Try-On via Straightened Conditional Transport](https://arxiv.org/abs/2605.12939) **(arXiv)**
+- **[2026-05-04]** [FEAT: Fashion Editing and Try-On from Any Design](https://arxiv.org/abs/2605.02393) **(arXiv)**
+- **[2026-05-02]** [SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On](https://arxiv.org/abs/2605.01296) **(ICPR 2026)** [![Star](https://img.shields.io/github/stars/takesukeDS/SIFT-VTON.svg?style=social&label=Star)](https://github.com/takesukeDS/SIFT-VTON)
 - **[2026-04-21]** [Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://arxiv.org/abs/2604.19748) **(arXiv)**
+- **[2026-03-23]** [Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off](https://arxiv.org/abs/2603.22607) **(arXiv)** [Project Page](https://furio1999.github.io/Dress-ED/)
+- **[2026-03-20]** [OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework](https://arxiv.org/abs/2603.19643) **(arXiv)**
 - **[2025-10-03]** [DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](https://arxiv.org/abs/2510.04797) **(arXiv)**
 - **[2025-08-28]** [FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](https://arxiv.org/abs/2508.20586) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://fastfit.lavieai.com) [![Star](https://img.shields.io/github/stars/Zheng-Chong/FastFit.svg?style=social&label=Star)](https://github.com/Zheng-Chong/FastFit)
 - **[2025-08-25]** [JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on](https://arxiv.org/abs/2508.17614) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://market.aliyun.com/detail/cmapi00067129;jsessionid=4253F86EC1B7AA1C1AF51A5EB04E669B) [![Star](https://img.shields.io/github/stars/damo-cv/JCo-MVTON.svg?style=social&label=Star)](https://github.com/damo-cv/JCo-MVTON)
