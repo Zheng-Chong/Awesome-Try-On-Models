@@ -11,6 +11,8 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+- **[2026-05-13]** [DirectTryOn: One-Step Virtual Try-On via Straightened Conditional Transport](https://arxiv.org/abs/2605.12939) **(arXiv)**
+- **[2026-04-21]** [Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://arxiv.org/abs/2604.19748) **(arXiv)**
 - **[2025-10-03]** [DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](https://arxiv.org/abs/2510.04797) **(arXiv)**
 - **[2025-08-28]** [FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](https://arxiv.org/abs/2508.20586) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://fastfit.lavieai.com) [![Star](https://img.shields.io/github/stars/Zheng-Chong/FastFit.svg?style=social&label=Star)](https://github.com/Zheng-Chong/FastFit)
 - **[2025-08-25]** [JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on](https://arxiv.org/abs/2508.17614) **(arXiv)** [![Demo](https://img.shields.io/badge/Demo-orange)](https://market.aliyun.com/detail/cmapi00067129;jsessionid=4253F86EC1B7AA1C1AF51A5EB04E669B) [![Star](https://img.shields.io/github/stars/damo-cv/JCo-MVTON.svg?style=social&label=Star)](https://github.com/damo-cv/JCo-MVTON)
@@ -53,6 +55,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 
 ## Video-based Models
 - **[2026-05-20]** [iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance](https://arxiv.org/abs/2605.21431) **(ICML 2026)** [Project Page](https://zhengjun-ai.github.io/itryon-page)
+- **[2026-04-30]** [TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On](https://arxiv.org/abs/2604.27958) **(arXiv)**
 - **[2025-12-23]** [The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](http://arxiv.org/abs/2512.20340) **(arXiv)** [Dataset](https://huggingface.co/datasets/zijiyingcai/ViT-HD/tree/main)
 - **[2025-11-24]** [Eevee: Towards Close-up High-resolution Video-based Virtual Try-on](http://arxiv.org/abs/2511.18957) **(arXiv)** [![Star](https://img.shields.io/github/stars/AMAP-ML/Eevee.svg?style=social&label=Star)](https://github.com/AMAP-ML/Eevee) 
 - **[2025-10-05]** [Once Is Enough: Lightweight DiT-Based Video Virtual Try-On via One-Time Garment Appearance Injection](http://arxiv.org/abs/2510.07654) **(arXiv)**
