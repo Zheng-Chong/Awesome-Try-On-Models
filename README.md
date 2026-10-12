@@ -25,6 +25,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2026-03-23]** [Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off](https://arxiv.org/abs/2603.22607) **(arXiv)** [Project Page](https://furio1999.github.io/Dress-ED/)
 - **[2026-03-20]** [OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework](https://arxiv.org/abs/2603.19643) **(arXiv)**
 - **[2026-03-01]** [Mobile-VTON: High-Fidelity On-Device Virtual Try-On](https://arxiv.org/abs/2603.00947) **(CVPR 2026)** [![Star](https://img.shields.io/github/stars/tmllab/2026_CVPR_Mobile-VTON.svg?style=social&label=Star)](https://github.com/tmllab/2026_CVPR_Mobile-VTON)
+- **[2026-02-19]** [CORAL: Correspondence Alignment for Improved Virtual Try-On](https://arxiv.org/abs/2602.17636) **(NeurIPS 2026)** [![Star](https://img.shields.io/github/stars/cvlab-kaist/CORAL.svg?style=social&label=Star)](https://github.com/cvlab-kaist/CORAL)
 - **[2026-02-16]** [OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance](https://arxiv.org/abs/2602.14552) **(arXiv)** [![Star](https://img.shields.io/github/stars/Jerome-Young/OmniVTON-PlusPlus.svg?style=social&label=Star)](https://github.com/Jerome-Young/OmniVTON-PlusPlus)
 - **[2026-01-27]** [FASHN VTON v1.5: Efficient Maskless Virtual Try-On in Pixel Space](https://fashn.ai/research/vton-1-5) **(Project Page)** [![Star](https://img.shields.io/github/stars/fashn-AI/fashn-vton-1.5.svg?style=social&label=Star)](https://github.com/fashn-AI/fashn-vton-1.5)
 - **[2025-11-24]** [Rethinking Garment Conditioning in Diffusion-based Virtual Try-On: Decouple, Don't Denoise](https://arxiv.org/abs/2511.18775) **(ECCV 2026)** [![Star](https://img.shields.io/github/stars/Levinna/DeCo-VTON.svg?style=social&label=Star)](https://github.com/Levinna/DeCo-VTON)
@@ -95,6 +96,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2024-04-26]** [Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos](http://arxiv.org/abs/2404.17571) **(arXiv)**
 
 ## 3D-based Models
+- **[2026-03-04]** [Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On](https://arxiv.org/abs/2603.04290) **(3DV 2026)** [![Star](https://img.shields.io/github/stars/eth-ait/GaussianWardrobe.svg?style=social&label=Star)](https://github.com/eth-ait/GaussianWardrobe)
 - **[2025-09-05]** [LUIVITON: Learned Universal Interoperable VIrtual Try-ON](http://arxiv.org/abs/2509.05030) **(arXiv)**
 - **[2025-03-15]** [VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction](https://arxiv.org/pdf/2503.12165) **(CVPR 2025)**  [![Star](https://img.shields.io/github/stars/scnuhealthy/VTON360.svg?style=social&label=Star)](https://github.com/scnuhealthy/VTON360)
 - **[2024-10-07]** [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](http://arxiv.org/abs/2410.05259) **(arXiv)** [![Star](https://img.shields.io/github/stars/yukangcao/GS-VTON.svg?style=social&label=Star)](https://github.com/yukangcao/GS-VTON)
