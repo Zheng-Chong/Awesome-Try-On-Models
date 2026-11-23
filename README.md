@@ -11,6 +11,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+- **[2026-11-09]** [DSR-Tryon: Dual-Scale Semantic Reasoning for Versatile and Coherent Virtual Try-On](https://doi.org/10.1145/3767308.3835735) **(ACMMM 2026)** [Weights](https://huggingface.co/plwang/DSR-Tryon)
 - **[2026-07-24]** [Layering Virtual Try-On](https://arxiv.org/abs/2607.22924) **(ECCV 2026)** [![Star](https://img.shields.io/github/stars/ChuenFung/Layering-Virtual-Try-On.svg?style=social&label=Star)](https://github.com/ChuenFung/Layering-Virtual-Try-On)
 - **[2026-07-23]** [Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On](https://arxiv.org/abs/2607.21694) **(arXiv)** [![Star](https://img.shields.io/github/stars/OxygenVision/Oxygen-TryOn.svg?style=social&label=Star)](https://github.com/OxygenVision/Oxygen-TryOn)
 - **[2026-06-26]** [OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation](https://arxiv.org/abs/2606.27880) **(ECCV 2026)** [![Star](https://img.shields.io/github/stars/NJU-PCALab/OrthoTryOn.svg?style=social&label=Star)](https://github.com/NJU-PCALab/OrthoTryOn)
